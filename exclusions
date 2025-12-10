@@ -1,0 +1,47 @@
+# subdomains not attributed to users
+
+# https://localhost.run
+admin.localhost.run
+cd.localhost.run # CNAME for custom domains (https://localhost.run/docs/custom-domains)
+
+# https://www.cpolar.com
+cname.cpolar.io # CNAME for custom domains (https://www.cpolar.com/docs)
+
+# https://localtonet.com
+community.localtonet.com
+ns1.localtonet.com # NS for custom domains (https://localtonet.com/blog/how-to-add-custom-domain-on-localtonet)
+ns2.localtonet.com
+
+# https://localxpose.io
+# https://localxpose.io/docs#regions
+af.loclx.io # CNAME for custom domains (https://localxpose.io/docs/reservations/endpoint#custom-domain-name)
+ap.loclx.io
+au.loclx.io
+br.loclx.io 
+eu.loclx.io
+us.loclx.io
+
+# https://localcan.com
+cname.localcan.dev # CNAME for custom domains (https://www.localcan.com/docs/public-urls/custom-domains)
+
+# https://tunnelmole.com
+dashboard.tunnelmole.com
+install.tunnelmole.com
+
+# https://tunnelto.dev
+console.tunnelto.dev
+dashboard.tunnelto.dev
+
+# https://ultrahook.com 
+app.ultrahook.com
+www.ultrahook.com
+
+# https://sshreach.me
+blog.sshreach.me
+fw1.sshreach.me
+p.sshreach.me
+
+# https://pitunnel.com
+terminal.pitunnel.com
+try.pitunnel.com
+www.pitunnel.com

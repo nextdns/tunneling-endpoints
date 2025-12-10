@@ -1,0 +1,151 @@
+# suffixes (block anything below only)
+
+# https://ngrok.com
+# https://ngrok.com/docs/universal-gateway/domains#ngrok-managed-domains
+# BEWARE: CNAME for custom domains is *.ngrok.io (TCP only) (https://ngrok.com/docs/universal-gateway/tcp#custom-domains)
+# otherwise CNAME are *.ngrok-cname.com (https://ngrok.com/docs/universal-gateway/custom-domains)
+ngrok.app
+ngrok.dev
+ngrok.io
+ngrok.pizza
+ngrok.pro
+ngrok-free.app
+ngrok-free.dev
+ngrok-free.pizza
+
+# https://trycloudflare.com
+trycloudflare.com
+
+# https://localtunnel.me
+loca.lt
+localtunnel.app
+localtunnel.me
+
+# https://localhost.run
+lhr.life
+lhr.rocks
+lhr.run
+localhost.run
+
+# https://pinggy.io
+# BEWARE: CNAME for custom domains is *.pinggy.link (https://pinggy.io/docs/custom_domain)
+a.free.pinggy.link
+a.free.pinggy.online
+a.pinggy.io
+a.pinggy.link
+a.pinggy.online
+
+# https://playit.gg
+# https://at.ply.gg shows a list of playit.gg suffixes
+at.playit.plus
+at.ply.gg
+d6.ply.gg
+joinmc.link
+minecraft.party
+playit.buzz
+playit.cafe
+playit.city
+playit.fan
+playit.game
+playit.love
+playit.ooo
+playit.plus
+playit.pub
+playit.quest
+terraria.party
+terraria.pro
+with.playit.plus
+
+# https://www.cpolar.com
+cpolar.io
+
+# https://localtonet.com
+localto.net
+localtonet.com
+
+# https://learn.microsoft.com/en-us/azure/developer/dev-tunnels/cli-commands
+devtunnels.ms
+
+# https://code.visualstudio.com/docs/remote/tunnels
+tunnels.api.visualstudio.com
+
+# https://zrok.io
+share.zrok.io
+tunnel.zrok.io
+
+# https://tailscale.com
+ts.net
+
+# https://localxpose.io
+loclx.io
+
+#  https://inlets.dev
+try-inlets.dev
+
+# https://localcan.com
+localcan.dev
+
+# https://pagekite.net
+# BEWARE: CNAME for custom domains is *.pagekite.me (https://pagekite.net/wiki/Howto/CnamePageKites)
+pagekite.me
+
+# https://serveo.net (https://serveo.webflow.io)
+serveo.net
+
+# https://packetriot.com
+# BEWARE: CNAME for custom domains is *.pktriot.net (https://aepspe.com/blog/pktriot-exe/#6_Configure_a_Custom_Domain_Optional)
+pktriot.net
+
+# https://portmap.io
+# BEWARE: CNAME for custom domains is *.portmap.io (https://portmap.io/support)
+portmap.io
+
+# https://tunnelmole.com
+tunnelmole.com
+tunnelmole.net
+
+# https://expose.dev
+sharedwithexpose.com
+
+# https://loophole.cloud
+loophole.site
+
+# https://tunnelto.dev
+tunnelto.dev
+tunn.dev
+
+# https://telebit.cloud
+telebit.io
+
+# https://docs.github.com/en/codespaces/developing-in-a-codespace/forwarding-ports-in-your-codespace
+app.github.dev
+
+# https://ultrahook.com 
+ultrahook.com
+
+# https://jprq.io
+jprq.app
+jprq.site
+
+# https://pico.sh
+pastes.sh
+pgs.sh
+prose.sh
+tuns.sh
+
+# https://sshreach.me
+sshreach.me
+
+# https://btunnel.co.in
+btunnel.co.in
+
+# https://burrow.io
+burrow.io
+
+# https://dataplicity.com
+# https://docs.dataplicity.com/docs/host-a-website-from-your-pi
+dataplicity.io
+
+# https://pitunnel.com
+# https://www.pitunnel.com/doc/access-http-website-raspberry-pi-over-internet
+pitunnel.com
